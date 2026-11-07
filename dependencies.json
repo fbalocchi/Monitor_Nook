@@ -1,0 +1,67 @@
+[
+  {
+    "name": "ecj.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/eclipse/jdt/ecj/3.18.0/ecj-3.18.0.jar",
+    "sha256": "69dad18a1fcacd342a7d44c5abf74f50e7529975553a24c64bce0b29b86af497"
+  },
+  {
+    "name": "android-platform7.jar",
+    "url": "https://raw.githubusercontent.com/Sable/android-platforms/master/android-7/android.jar",
+    "sha256": "9903e589753edfb7566cf8cf039e6166d6fe3bcaf687356c574b9eee0c3784b8"
+  },
+  {
+    "name": "sc-core.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/madgag/spongycastle/core/1.58.0.0/core-1.58.0.0.jar",
+    "sha256": "199617dd5698c5a9312b898c0a4cec7ce9dd8649d07f65d91629f58229d72728"
+  },
+  {
+    "name": "sc-prov.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/madgag/spongycastle/prov/1.58.0.0/prov-1.58.0.0.jar",
+    "sha256": "092fd09e7006b0814980513b013d4c2b3ffd24a49a635ab4b2d204bb51af1727"
+  },
+  {
+    "name": "sc-tls.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/madgag/spongycastle/bctls-jdk15on/1.58.0.0/bctls-jdk15on-1.58.0.0.jar",
+    "sha256": "65620a1e80119474ea00d689b75ab3cca17e950d8700162581f48b58eca51ec7"
+  },
+  {
+    "name": "ical4j.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/mnode/ical4j/ical4j/1.0.7/ical4j-1.0.7.jar",
+    "sha256": "40d123d45823cdecd4f5a5f5e94ca98e5e5342ae36711e41a70101a1d4c11671"
+  },
+  {
+    "name": "commons-logging.jar",
+    "url": "https://repo.maven.apache.org/maven2/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar",
+    "sha256": "70903f6fc82e9908c8da9f20443f61d90f0870a312642991fe8462a0b9391784"
+  },
+  {
+    "name": "commons-codec.jar",
+    "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.8/commons-codec-1.8.jar",
+    "sha256": "599b40b94b4a39c2550a4b5106df071aa03199b71ad5423207e2e7356aa4f8bb"
+  },
+  {
+    "name": "commons-lang.jar",
+    "url": "https://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar",
+    "sha256": "50f11b09f877c294d56f24463f47d28f929cf5044f648661c0f0cfbae9a2f49c"
+  },
+  {
+    "name": "backport.jar",
+    "url": "https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-concurrent-3.1.jar",
+    "sha256": "f5759b7fcdfc83a525a036deedcbd32e5b536b625ebc282426f16ca137eb5902"
+  },
+  {
+    "name": "apksig.jar",
+    "url": "https://dl.google.com/dl/android/maven2/com/android/tools/build/apksig/8.1.4/apksig-8.1.4.jar",
+    "sha256": "468ee1852fa12461c6629608fe47be70e50f60be7c4744bb7f62ca48e85c0a6c"
+  },
+  {
+    "name": "aapt2-linux.jar",
+    "url": "https://dl.google.com/dl/android/maven2/com/android/tools/build/aapt2/8.1.4-10154469/aapt2-8.1.4-10154469-linux.jar",
+    "sha256": "94252db9886dcb1b8689a656e1cd8f222e68b8223b03951350b064c3c4e3eb91"
+  },
+  {
+    "name": "dx.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/android/tools/dx/1.7/dx-1.7.jar",
+    "sha256": "923302e666d76e126e4cdf7129318532b258b1a66e435b92ccc29e91a60357bf"
+  }
+]

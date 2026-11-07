@@ -1,0 +1,29 @@
+# Never publish personal signing material or reader data.
+/signing/
+*.pk8
+*.jks
+*.keystore
+*key.pem
+config.json
+notes.txt
+calendar.ics
+panel.xml
+*.img
+*.bin
+*.log
+NOOK-respaldo*/
+NOOK-custom-registro*/
+NOOK-custom-instalacion*/
+
+# Local build products and downloaded dependencies.
+/deps/
+/official/classes/
+/official/sign-classes/
+/official/test-classes/
+*.class
+*.dex
+*.jar
+*.apk
+!/releases/*.apk
+__pycache__/
+.DS_Store
